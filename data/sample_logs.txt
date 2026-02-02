@@ -1,0 +1,11 @@
+2024-01-15 08:30:15 INFO User 'admin' logged in successfully from 192.168.1.10
+2024-01-15 08:45:22 WARNING Multiple failed login attempts for user 'john' from 10.0.0.5
+2024-01-15 09:15:33 ERROR Authentication failure for user 'root' from 192.168.1.15
+2024-01-15 10:20:45 INFO User 'mary' logged in successfully from 192.168.1.20
+2024-01-15 11:05:12 WARNING Port scan detected from 203.0.113.25
+2024-01-15 11:30:18 ERROR SQL injection attempt from 198.51.100.33
+2024-01-15 12:45:55 INFO User 'admin' logged out from 192.168.1.10
+2024-01-15 13:20:30 WARNING Brute force attack detected from 10.0.0.5
+2024-01-15 14:15:42 ERROR File permission violation by user 'john' from 192.168.1.15
+2024-01-15 15:00:10 INFO Configuration backup completed
+2024-01-15 16:30:05 WARNING Unusual network traffic from 203.0.113.25
