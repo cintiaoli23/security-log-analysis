@@ -1,5 +1,5 @@
 # Security Log Analysis with Python
-Projeto para análise de logs de segurança.
+Project for security log analysis
 
 ## Objective
 Analyze authentication logs to identify suspicious login activity, such as repeated failed login attempts that may indicate brute-force attacks.
